@@ -8,7 +8,7 @@
 ## spider
 # 00.官方jar
 # TG (猫影视TV渡口🛳, 不定期开放邀请链接 ) --> https://t.me/catvodtv_offical
-//"spider": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/custom_spider.txt",
+"spider": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/custom_spider.txt",
 
 # 01.🐼 (非官方) 缝合jar
 //"spider":"https://raw.fastgit.org/YuanHsing/OneClickRun/master/MeowXP/custom_spider.jar",
@@ -20,7 +20,7 @@
 # 03.🥒 (非官方) 小黄瓜大佬 XBiubiuLA.jar:
 # Github --> https://github.com/lite-cucumber/CatVodTVSpider
 # 套Biubiu+LiteApple规则
-"spider":"https://raw.fastgit.org/YuanHsing/OneClickRun/master/MeowXB/XBiubiuLA2.jar",
+//"spider":"https://raw.fastgit.org/YuanHsing/OneClickRun/master/MeowXB/XBiubiuLA2.jar",
 //"spider":"img+https://inews.gtimg.com/newsapp_ls/0/14940316852/0.jiketuchuang.png",
 
 
